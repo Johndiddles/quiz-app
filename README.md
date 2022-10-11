@@ -6,26 +6,34 @@ This quiz app was built as a coding test for Broadshift frontend developer posit
 
 To run this app;
 
-- Clone the app to your local machine
-  `git clone https://github.com/Johndiddles/quiz-app`
+1. Clone the app to your local machine
 
-- cd into the project directory
-  `cd quiz-app`
+   `git clone https://github.com/Johndiddles/quiz-app`
 
-- Install packages
+2. cd into the project directory
 
-Using NPM
-`npm i` or `npm install`
+   `cd quiz-app`
 
-Using Yarn
-`yarn install`
+3. Install packages
 
-- Start the app
+   - Using NPM
 
-using NPM
-`npm run start`
+     `npm i` or `npm install`
 
-using Yarn
-`yarn start`
+   - Using Yarn
 
-- Open your browser and go to `http://localhost:3000`
+     `yarn install`
+
+4. Start the app
+
+   - using NPM
+
+     `npm run start`
+
+   - using Yarn
+
+     `yarn start`
+
+5. Open your browser and go to `http://localhost:3000`
+
+6. Enter Your Full Name (2 Names) and start the quiz.
